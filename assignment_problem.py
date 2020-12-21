@@ -1,10 +1,17 @@
 from ortools.linear_solver import pywraplp
-
+  #        Atlanta Boston Chicago
+#Jones       21     23     17
+#Goldblum    15     17     13
+#Schuldinger 20     17     18
 sales = [
     [21, 23, 17],
     [15, 17, 13],
     [20, 17, 18]
 ]
+ #         Atlanta   Boston Chicago
+#Jones        65       50      20
+#Goldblum     85       65      90
+#Schuldinger 100       30      80
 allo_cost = [[65, 50, 20],
              [85, 65, 90],
              [100, 30, 80]]
