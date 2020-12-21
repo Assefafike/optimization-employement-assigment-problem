@@ -1,6 +1,8 @@
 # optimization-employement-assigment-problem
 
 A trading company must assign three sales managers to three sales offices. Its objective is to find the assignments that maximize the total yearly sales of all three offices. Naturally, only one person can be assigned to each sales office. The expected yearly sales (in millions of dollars) if each individual is assigned to each office are as follows:
+![Alt text](https://github.com/[Assefafike]/[optimization-employement-assigment-problem
+]/opt.png?raw=true)
           Atlanta Boston Chicago
 Jones       21     23     17
 Goldblum    15     17     13
